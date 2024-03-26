@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<parameters name="give" value=""></parameters>
+  <test name="Test">
+    <classes>
+      <class name="Master.class1"/>
+      <class name="Master.mnytralogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
